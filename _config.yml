@@ -1,7 +1,7 @@
 name: theanecdotal
 favicon: null
-layout_spectrum: 0.4328316811006516
-typography_spectrum: 0.1696549125481397
+layout_spectrum: 0
+typography_spectrum: 0.59234
 title: A Visual Journal of an Aspiring Liar
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.8584030349738896
-  lightness: 0.9704902039375156
-  saturation: 0.16187954740598798
-  rhythmicContrast: 0.6971838823519647
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
