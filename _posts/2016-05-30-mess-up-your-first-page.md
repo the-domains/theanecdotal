@@ -6,14 +6,14 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: That way you will not feel pressured to post some staggering genius that will inevitably never be posted.
-datePublished: '2016-05-30T21:24:48.646Z'
-dateModified: '2016-05-30T21:24:24.898Z'
+datePublished: '2016-05-30T21:26:36.742Z'
+dateModified: '2016-05-30T21:26:19.874Z'
 title: Mess up your first page
 author: []
+sourcePath: _posts/2016-05-30-mess-up-your-first-page.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-30-mess-up-your-first-page.md
 _context: 'http://schema.org'
 _type: Article
 
