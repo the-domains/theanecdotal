@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: That way you will not feel pressured to post some staggering genius that will inevitably never be posted.
-datePublished: '2016-05-30T21:35:10.977Z'
-dateModified: '2016-05-30T21:35:03.624Z'
+datePublished: '2016-05-30T21:50:37.666Z'
+dateModified: '2016-05-30T21:36:12.182Z'
 title: Mess up your first page
 author: []
 sourcePath: _posts/2016-05-30-mess-up-your-first-page.md
