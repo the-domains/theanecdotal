@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Street photography can be many things and bleeds into many other genres of photography.
-datePublished: '2016-06-03T04:43:11.634Z'
-dateModified: '2016-06-03T04:42:57.014Z'
+datePublished: '2016-06-03T16:55:17.335Z'
+dateModified: '2016-06-03T16:55:00.978Z'
 title: What Is Street Photography?
 author:
   - name: ''
