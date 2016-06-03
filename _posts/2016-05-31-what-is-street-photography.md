@@ -1,22 +1,26 @@
 ---
-authors: []
-dateModified: '2016-05-31T17:08:59.714Z'
-datePublished: '2016-05-31T17:09:30.232Z'
-description: Street photography can be many things and bleeds into many other genres of photography.
-hasPage: true
 inFeed: true
+hasPage: true
 inNav: false
+inLanguage: null
 keywords: []
+description: Street photography can be many things and bleeds into many other genres of photography.
+datePublished: '2016-06-03T04:43:11.634Z'
+dateModified: '2016-06-03T04:42:57.014Z'
 title: What Is Street Photography?
-author: []
-starred: false
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-31-what-is-street-photography.md
+authors: []
+publisher: null
+starred: false
 url: what-is-street-photography/index.html
 _type: Article
 
 ---
 # What Is Street Photography?
-![Man walked down Yonge St. In the summer with an unlit cigarette in his mouth](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b4001fb-a17c-456b-965a-6314775cc831.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b4001fb-a17c-456b-965a-6314775cc831.jpg)
 
 Street photography can be many things and bleeds into many other genres of photography.
 
