@@ -4,9 +4,11 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Street photography can be many things and bleeds into many other genres of photography.
-datePublished: '2016-06-03T16:55:17.335Z'
-dateModified: '2016-06-03T16:55:00.978Z'
+description: >-
+  Street photography can be many things and bleeds into many other genres of
+  photography.
+datePublished: '2016-06-10T04:15:48.156Z'
+dateModified: '2016-06-10T04:14:52.792Z'
 title: What Is Street Photography?
 author:
   - name: ''
@@ -27,4 +29,4 @@ Street photography can be many things and bleeds into many other genres of photo
 To me street photography is a documentation of what is there, always candid, never posed. Street photos do not have to include humans, but there must be a human influence depicted in the scene.
 ![Ripped Missing poster on the side of a storefront on Bloor and Ossington.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b18776bd-72f5-4989-be4a-e5d345d3153a.jpg)
 
-A lot of people seem to have a more rigid or looser stance on the genre but as vague as everyone's definitions are on street, one thing is for sure. You will know it when you see it.
+A lot of people seem to have a more rigid or looser stance on the genre but as vague as everyone's definitions are on street, one thing is for sure, no matter the genre continue to make good photos. At the end of the day if a photo should move you, everything else is secondary.
