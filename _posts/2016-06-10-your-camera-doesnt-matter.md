@@ -14,14 +14,14 @@ description: >-
   your camera is large and not "stealth" then use that to it's advantages. Use
   the presence of the camera and photographer to make a statement through your
   subjects. 
-datePublished: '2016-06-10T04:19:14.280Z'
-dateModified: '2016-06-10T04:18:37.112Z'
+datePublished: '2016-06-10T04:30:34.060Z'
+dateModified: '2016-06-10T04:19:50.916Z'
 title: Your Camera Doesn't Matter
 author: []
+sourcePath: _posts/2016-06-10-your-camera-doesnt-matter.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-10-your-camera-doesnt-matter.md
 url: your-camera-doesnt-matter/index.html
 _type: Article
 
